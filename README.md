@@ -30,7 +30,15 @@ Deze folder bevat de template voor de HTML-pagina's.
 
 Deze folder bevat de website.
 
-## Versiens
+## Versies
+
+### 2022-05-07
+
+- Functionele navbar (aparte template)
+- Aantal woordparen per pagina variabel
+- Alle pagina's aanmaken: 8000:(aantal woordparen per pagina)
+
+Code is nog *quick and dirty*, maar het gaat vooruit.
 
 ### 2022-05-07
 
@@ -44,10 +52,7 @@ Deze folder bevat de website.
 
 ### To Do volgende versies
 
-- Aantal woordparen per pagina variabel
-- Alle pagina's aanmaken: 8000:(aantal woordparen per pagina)
 - WWW folder leegmaken voor nieuwe pagina's aangemaakt worden
 - Layout
 - Code in functies groeperen
-- Functionele navbar
-- Kan dit voor andere **Anki* decks gebruikt worden?
+- Kan dit voor andere **Anki** decks gebruikt worden?
